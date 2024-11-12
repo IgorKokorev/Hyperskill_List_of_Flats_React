@@ -1,0 +1,17 @@
+type: edu
+files:
+    -   name: src/App.js
+        visible: true
+        learner_created: false
+    -   name: src/index.js
+        visible: false
+        learner_created: false
+    -   name: test/test.js
+        visible: false
+        learner_created: false
+feedback_link: https://hyperskill.org/learn/step/44385#comment
+status: Solved
+feedback:
+    message: Congratulations!
+    time: "Tue, 12 Nov 2024 13:02:32 UTC"
+record: 3
